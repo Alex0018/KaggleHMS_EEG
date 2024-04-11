@@ -1,5 +1,5 @@
 Detailed description in
-<HMS writeup.pdf>
+<HMS_writeup.pdf>
 
 
 Competition:
